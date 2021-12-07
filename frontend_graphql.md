@@ -1,4 +1,4 @@
-## Тестовое задание: frontend + graphql
+## Тестовое задание: React + GraphQL (Junior)
 
 Создайте single page application, работающий c Github GraphQL API. Приложение представляет из себя «менеджер» для просмотра с issues на гитхабе.
 
